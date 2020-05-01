@@ -187,3 +187,9 @@ a:focus,
 a:active {
   color: #824027;
 }
+
+.mb-0 {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
