@@ -193,3 +193,7 @@ a:active {
   flex-wrap: nowrap;
   justify-content: center;
 }
+.makeRow {
+  display: flex;
+  flex-direction: column;
+}
